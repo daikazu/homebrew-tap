@@ -1,8 +1,8 @@
 class Renx < Formula
   desc "TUI tool for bulk file renaming"
   homepage "https://github.com/daikazu/renx"
-  url "https://github.com/daikazu/renx/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "a0ec9b37d0a8398a5ad141a16a77f54ddee6a8408bb23e676637d9600a247961"
+  url "https://github.com/daikazu/renx/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "87dd58afaad3b543e8d6a50d9aa0fdc5c36cb2913677ea1867359eb4f3931e6e"
   license "MIT"
 
   depends_on "rust" => :build
